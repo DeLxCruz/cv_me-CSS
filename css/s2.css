@@ -104,6 +104,10 @@
     justify-content: center;
 }
 
+/* BONUS */
+
+/* EFECTO HOVER EN LAS CARDS DE SKILLS TECNOLOGICSO DE GRID */
+
 .section2__cards--card1:hover, .section2__cards--card2:hover, .section2__cards--card3:hover, .section2__cards--card4:hover, .section2__cards--card5:hover, .section2__cards--card6:hover, .section2__cards--card7:hover {
     box-shadow: 0px 14px 24px 1px rgba(82,80,80,0.75);
     -webkit-box-shadow: 0px 14px 24px 1px rgba(82,80,80,0.75);
